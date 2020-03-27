@@ -1,7 +1,5 @@
 *** Settings ***
 Library     Selenium2Library
-Library     String
-Library     Collections
 
 Resource    ../ObjectRepository/EcommerceObjects.robot
 Resource    ../Test Data/EcommerceData.robot
